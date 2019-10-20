@@ -16,6 +16,7 @@
         "spatie/laravel-permission": "^3.2"
     },
     "require-dev": {
+        "laravel/ui": "^1.1",
         "beyondcode/laravel-dump-server": "^1.0",
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
